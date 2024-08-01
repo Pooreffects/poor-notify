@@ -3,7 +3,9 @@
 ### Desc
 
 An Express + TS REST API that serves notifications and subscriptions services for Poorthekid blog posts
-****
+
+---
+
 How to use this template:
 
 ```sh
@@ -91,3 +93,7 @@ npm run dev
 └── /test
 ├── api.test.ts // Existing test file for API
 ├── app.test.ts // Existing test file for the application
+
+### Resources
+
+https://www.twilio.com/docs/sendgrid/for-developers
